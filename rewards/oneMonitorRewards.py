@@ -27,7 +27,7 @@ def your_code():
 
     #epic pull reload
     pyautogui.click(158,303)
-    pyautogui.click(158,303)
+    pyautogui.click(158,302)
     time.sleep(10)
 
     #epic pull chat button
